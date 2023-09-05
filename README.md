@@ -1,22 +1,15 @@
-                           ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
 
-<!--wea
-**bigigigil/bigigigil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ╱|、
+  (˚ˎ 。7 𓈒ㅤׂㅤ𓇼 ࣪ 𓈒ㅤׂ
+   |、˜〵ㅤ⭒𓆡 ⭒ㅤ𓈒ㅤׂ 🫧          
+  じしˍ,)ノ
+  
+- (˶ˆ꒳ˆ˵) Multimedia and Digital Animation student
+- I’m currently learning c++, HTML, and CSS  (˶ᵔ ᵕ ᵔ˶)
+- (˶′◡‵˶) I’m looking for help with winAPI
+- Pronouns: she/her  (•⩊•)
+- Fun fact: I'm a course instructor at TECNOLOchicas :D
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 #encabezado
 
