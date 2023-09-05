@@ -9,6 +9,7 @@
 - (˶′◡‵˶) I’m looking for help with winAPI
 - Pronouns: she/her  (•⩊•)
 - Course instructor at TECNOLOchicas :D
+- Fun fact: I'm a nature lover C:
 
 𓈒ㅤׂㅤ𓇼 ࣪ 𓈒ㅤׂㅤ⭒𓆡 ⭒ㅤ𓈒ㅤׂ 🫧          
 <!--
