@@ -10,7 +10,6 @@
 - (˶ˆ꒳ˆ˵) Multimedia and Digital Animation student
 - I’m currently learning winAPI and web desing  (˶ᵔ ᵕ ᵔ˶)
 - (˶′◡‵˶) Course instructor at TECNOLOchicas :D
-- Fun fact: I'm a nature lover C:
 
 # Languages & Tech I work with:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
